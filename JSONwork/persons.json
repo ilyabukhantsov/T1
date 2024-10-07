@@ -1,0 +1,41 @@
+
+{
+  "people": [
+    {
+      "name": "Ivan",
+      "age": 30,
+      "hobbies": [
+        "reading",
+        "hiking",
+        "programming"
+      ]
+    },
+    {
+      "name": "Maria",
+      "age": 25,
+      "hobbies": [
+        "painting",
+        "dancing",
+        "traveling"
+      ]
+    },
+    {
+      "name": "Alexey",
+      "age": 35,
+      "hobbies": [
+        "fishing",
+        "cycling",
+        "chess"
+      ]
+    },
+    {
+      "name": "Olga",
+      "age": 28,
+      "hobbies": [
+        "photography",
+        "yoga",
+        "cooking"
+      ]
+    }
+  ]
+}
